@@ -1,4 +1,4 @@
-# Subh's stock dashboard — hardened Kite backend
+# Subh's stock dashboard - hardened Kite backend
 
 Production-oriented local backend for a React market terminal using Zerodha Kite Connect v3.
 
